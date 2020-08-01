@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "testPrueba",
+      "setup": "composer install",
+      "run": "composer test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
