@@ -14,7 +14,7 @@
     <title>Hello, world!</title>
 </head>
 <body>
-<h1>Hello,  <?= fullName('ignasi','gomis') ?>! com estas</h1>
+<h1>Hello,  <?= fullName('ignasi','gomis') ?></h1>
 <?= makeList(['index'=>'index.php','moodle'=>'http://moodle.cipfpbatoi.es']) ?>
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
